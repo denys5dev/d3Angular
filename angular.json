@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "test11"
+  "defaultProject": "test11",
+  "cli": {
+    "analytics": false
+  }
 }
